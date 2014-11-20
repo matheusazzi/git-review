@@ -1,0 +1,17 @@
+{
+  "name": "git-review",
+  "version": "0.1.1",
+  "description": "List all opened Pull Requests of organizations on Github.",
+  "author": "Matheus Azzi",
+  "main": "git-review.js",
+  "bin": "git-review.js",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "octonode": "^0.6.11",
+    "prompt": "^0.2.14",
+    "request": "^2.48.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
