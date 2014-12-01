@@ -1,3 +1,3 @@
-#!/usr/local/bin/node
+#!/usr/bin/env node
 var gitReview = require('./lib/git-review');
 module.exports = gitReview;
