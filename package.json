@@ -1,6 +1,6 @@
 {
   "name": "git-review",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "List all opened Pull Requests of organizations on Github.",
   "author": "Matheus Azzi",
   "main": "git-review.js",
