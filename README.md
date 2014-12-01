@@ -12,10 +12,14 @@ List all opened Pull Requests of organizations on Github.
 npm i -g git-review
 ```
 
-## Use
-
-Type on your terminal:
+## Usage
 
 ```
-git-review
+git-review --token=YourTokenHere --organization=YourOrganization --public (if want public repos)
+```
+
+Or if you want to go crazy and use your username/password
+
+```
+git-review --username=Username --password=Wat --organization=YourOrganization --public
 ```
